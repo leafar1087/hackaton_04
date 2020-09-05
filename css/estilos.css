@@ -1,5 +1,10 @@
 #banner-inicio{
     /*background-image: url(images/banner.png);*/
     background-color: cornflowerblue;
-    
+        
+}
+
+#titulo-inicio, #subtitulo-inicio{
+    color:whitesmoke;
+    font-family: Helvetica, sans-serif;
 }
