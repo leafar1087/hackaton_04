@@ -1,3 +1,5 @@
-body main #banner-inicio{
-    background: url(images/banner.png);
+#banner-inicio{
+    /*background-image: url(images/banner.png);*/
+    background-color: cornflowerblue;
+    
 }
